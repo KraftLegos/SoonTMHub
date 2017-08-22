@@ -1,0 +1,8 @@
+main: com.github.kraftykaleb.SoonTMHub
+version: 1.0
+author: Kraft
+name: SoonTMHub
+description: Skyflag hub plugin!
+commands:
+  setspawn:
+    description: sets the spawn of the server
